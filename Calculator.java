@@ -3,4 +3,6 @@ public class Calculator{
 		double sum = a + b;
 		System.out.println(sum);
 	}
+
+	//one more function added
 }
