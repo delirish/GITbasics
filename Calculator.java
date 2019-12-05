@@ -4,5 +4,8 @@ public class Calculator{
 		System.out.println(sum);
 	}
 
+
 	// new function added
+	//one more function added
+
 }
